@@ -38,13 +38,4 @@ This README provides an overview of my programming skills, outlining the languag
 - **Software Development Lifecycle**: Experienced in Agile methodologies and the software development lifecycle.
 - **Documentation**: Proficient in writing clear and concise documentation for code and projects.
 
-## Projects
-
-- **Project 1**: Description of the project, technologies used, and my role.
-- **Project 2**: Description of the project, technologies used, and my role.
-- **Project 3**: Description of the project, technologies used, and my role.
-
-## Contact
-
-Feel free to reach out to me at [your.email@example.com](mailto:your.email@example.com) for collaboration opportunities or inquiries.
 
